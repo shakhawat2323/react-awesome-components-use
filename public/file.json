@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 25,
+    "currency": "USD",
+    "billingCycle": "Monthly",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "1 guest pass per month"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Membership",
+    "price": 50,
+    "currency": "USD",
+    "billingCycle": "Monthly",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "5 guest passes per month",
+      "Free group fitness classes",
+      "Access to sauna and steam room"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "price": 75,
+    "currency": "USD",
+    "billingCycle": "Monthly",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Unlimited guest passes",
+      "Free group fitness and yoga classes",
+      "Access to sauna, steam room, and pool",
+      "1 free personal training session per month",
+      "24/7 access to the facility"
+    ]
+  }
+]
